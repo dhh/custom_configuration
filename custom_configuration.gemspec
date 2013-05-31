@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
   s.authors     = ["David Heinemeier Hansson"]
   s.email       = ["david@heinemeierhansson.com"]
   s.summary     = "Custom configuration storage for Rails"
-  s.homepage    = "https://github.com/rails/custom_configuration"
+  s.homepage    = "https://github.com/dhh/custom_configuration"
 
   s.files = Dir["{app,config,db,lib}/**/*"] + ["MIT-LICENSE", "Rakefile", "README.md"]
   s.test_files = Dir["test/**/*"]
