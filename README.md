@@ -13,3 +13,7 @@ if Rails.configuration.x.resque.jobs_inline
   Resque.inline = true 
 end
 ```
+
+## Part of Rails 4.2+
+
+The functionality from this gem is included directly in Rails 4.2+.
